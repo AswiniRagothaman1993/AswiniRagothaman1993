@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aswini 
-- 👀 I’m interested in 
+- 👀 I’m interested to explore Data Analytics world.
 - 🌱 I’m currently learning Python and Statistics
 - 💞️ I’m looking to collaborate on freelancing works on Data analytics.
 - 📫 Please reach out to me @ aswiniragothaman1993@gmail.com
